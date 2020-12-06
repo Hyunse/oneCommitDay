@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "graphql-yoga": "^1.14.12",
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
